@@ -1,0 +1,36 @@
+.instaname {
+    font-family: 'Audiowide', cursive;
+}
+h5 {font-size:16px;}
+
+p{font-size:16px;}
+
+small{font-size:16px;}
+
+#bigcontainer{
+    padding: 0.5em;
+}
+.imagescontainer{
+    padding: 0em;
+}
+.image-height{
+    height: 500px;
+}
+        
+.card-columns .card {     
+    margin-bottom: .10rem;
+    border-radius: 0em;
+}
+        
+.card-columns {
+    column-gap: 0.05rem;
+}
+        
+.navbar{
+    margin-bottom:0px;
+}
+       
+.post {
+    margin-top: 15px;
+    margin-bottom: 48px!important;
+}
